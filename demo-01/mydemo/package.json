@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "element-ui": "^2.0.3",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vuedraggable": "^2.23.2"
